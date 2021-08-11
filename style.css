@@ -1,0 +1,184 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+
+.navbar {
+  background-color: #333333;
+  height: 10%;
+  display: flex;
+}
+
+.grid {
+  background-color: #f2f2f2;
+  min-height: 88%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 1.5rem;
+}
+
+.filter-container,
+.action-container {
+  height: 75%;
+  border-radius: 2px;
+  margin-left: 3.5rem;
+  background-color: #444444;
+  margin-top: 1.5vh;
+}
+
+.filter-container {
+  width: 8rem;
+  display: flex;
+}
+.action-container {
+  display: flex;
+  width: 4rem;
+}
+
+.filter {
+  width: 25%;
+  height: 100%;
+}
+
+.filter:hover {
+  background-color: #393939;
+}
+
+.filter div {
+  margin: auto;
+  margin-top: 1.95vh;
+  border-radius: 2px;
+  height: 50%;
+  width: 50%;
+}
+
+.pink-color-btn,
+.pink {
+  background-color: #d595aa;
+}
+.blue-color-btn,
+.blue {
+  background-color: #5ecdde;
+}
+.green-color-btn,
+.green {
+  background-color: #91e6c7;
+}
+.black-color-btn,
+.black {
+  background-color: black;
+}
+
+.add,
+.delete {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  padding-top: 0.7rem;
+  width: 50%;
+  height: 100%;
+}
+
+.delete {
+  font-size: 1.3rem;
+}
+
+.add {
+  font-size: 1.4rem;
+}
+
+.add:hover,
+.delete:hover {
+  background-color: #393939;
+}
+
+.delete-state {
+  background-color: #393939!important;
+}
+
+.modal-container {
+  box-shadow: 0px 5px 10px 0px #aaa;
+  height: 18rem;
+  width: 35rem;
+  display: flex;
+  position: fixed;
+  top: calc((100vh - 18rem) / 2);
+  left: calc((100vw - 35rem) / 2);
+}
+
+.writing-area {
+  background-color: white;
+  height: 100%;
+  width: 70%;
+  padding: 2rem;
+  outline: none;
+  font-size: 1.8rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.filter-area {
+  background-color: #444;
+  height: 100%;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-filter {
+  opacity: 0.7;
+  width: 50%;
+  height: 2.5rem;
+  margin-bottom: 5px;
+}
+
+.modal-filter:hover {
+  opacity: 1;
+}
+
+.ticket {
+  background-color: white;
+  height: 8rem;
+  width: 15rem;
+  margin-bottom: 20px;
+}
+
+.ticket-color {
+  width: 100%;
+  height: 5%;
+}
+
+.ticket-id {
+  height: 20%;
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 5px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #989393;
+}
+
+.ticket-box {
+  padding: 10px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-y: auto;
+  width: 100%;
+  height: 75%;
+  outline: none;
+}
+
+.active-modal-filter {
+  border: 2px solid rgb(56, 56, 56);
+  opacity: 1;
+}
