@@ -20,4 +20,4 @@
 
 1. Node.js : For creating the backend
 2. HTML-CSS : For styling and making the frontend
-3. JavaScript  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30px"  /> </a>  : For backend functionalities
+3. JavaScript  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="18px"  /> </a>  : For backend functionalities
