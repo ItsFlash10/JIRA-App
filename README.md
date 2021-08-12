@@ -26,3 +26,10 @@
 2. HTML <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="18px"  /> </a> - CSS </a> <a href="https://www.w3.org/css/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="18px"  /> </a> : For styling and making the frontend
 3. JavaScript  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="18px"  /> </a>  : For backend functionalities
 
+## Features
+
+- Delete
+<img src="/images/delete.gif" alt="Delete" />
+
+
+
