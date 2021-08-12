@@ -1,5 +1,5 @@
 # JIRA-App
 
-## <img src="images/intro.gif" alt="??"> What is Jira
+## <img src="images/intro.svg" alt="img"> What is Jira
 
 
