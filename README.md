@@ -28,8 +28,19 @@
 
 ## Features
 
+- Add
+<img src="/images/add.gif" alt="Add" />
+
+- Create Multiple Tickets
+<img src="/images/multi.gif" alt="Add" />
+
+- Filter colors
+<img src="/images/filter.gif" alt="Add" />
+
 - Delete
 <img src="/images/delete.gif" alt="Delete" />
+
+
 
 
 
