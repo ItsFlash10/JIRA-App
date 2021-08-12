@@ -1,4 +1,6 @@
-# JIRA-App
+# JIRA-App 
+ *[Hands-on the project](https://jira-app.vercel.app/)*
+
 
 ## What is Jira?
 
