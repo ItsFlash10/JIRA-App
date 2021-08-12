@@ -29,16 +29,16 @@
 ## Features
 
 - Add
-<img src="/images/add.gif" alt="Add" />
+<img src="/images/add.gif" alt="Add" width = "600" />
 
 - Create Multiple Tickets
-<img src="/images/multi.gif" alt="Add" />
+<img src="/images/multi.gif" alt="Add" width = "600" />
 
 - Filter colors
-<img src="/images/filter.gif" alt="Add" />
+<img src="/images/filter.gif" alt="Add" width = "600" />
 
 - Delete
-<img src="/images/delete.gif" alt="Delete" />
+<img src="/images/delete.gif" alt="Delete" width = "600" />
 
 
 
