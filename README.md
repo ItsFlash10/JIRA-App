@@ -16,7 +16,6 @@
 - Bugs and defect management
 - Seamless source and issue integration
 - Search and filtering
-- Advanced reporting
 - Customizable dashboards and wallboards
 - Advanced security and administration
 
