@@ -16,7 +16,6 @@
 - Bugs and defect management
 - Seamless source and issue integration
 - Search and filtering
-- Advanced reporting
 - Customizable dashboards and wallboards
 - Advanced security and administration
 
@@ -29,16 +28,16 @@
 ## Features
 
 - Add
-<img src="/images/add.gif" alt="Add" />
+<img src="/images/add.gif" alt="Add" width = "720" />
 
 - Create Multiple Tickets
-<img src="/images/multi.gif" alt="Add" />
+<img src="/images/multi.gif" alt="Add" width = "720" />
 
 - Filter colors
-<img src="/images/filter.gif" alt="Add" />
+<img src="/images/filter.gif" alt="Add" width = "720" />
 
 - Delete
-<img src="/images/delete.gif" alt="Delete" />
+<img src="/images/delete.gif" alt="Delete" width = "720" />
 
 
 
